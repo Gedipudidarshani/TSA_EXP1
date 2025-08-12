@@ -53,7 +53,7 @@ plt.show()
 <img width="1315" height="699" alt="image" src="https://github.com/user-attachments/assets/63407615-e112-4d4d-9595-f53c081c25c3" />
 
 
-It is Non-stationary data.
+It is stationary data.
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
